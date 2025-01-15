@@ -9,6 +9,6 @@ A series of articles will provide programming tutorials. It will be described ho
     05_Fyne.docx
     06_Blazor - WEB programming with Blazor in .NET 8 (Windows 11)
 
-GitConfigure.docx - configure GIT after connection to GitLab or GitHub was lost 
+GitConfigure.docx - configure GIT after connection to GitLab or GitHub was lost. 
 01_OperatingSystem.docx - is ready.
 	
